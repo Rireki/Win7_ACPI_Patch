@@ -29,7 +29,7 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------
 @ECHO OFF >nul
-title ACPI Windows 7 ACPI Replacer Script >NUL
+title ACPI Windows 7 Replacer Script >NUL
 ECHO ===========ACPI Windows 7 Replacer Script===========
 ECHO Place Windows 7's install.wim and acpi.sys from the github repository (https://github.com/Rireki/Win7_ACPI_Patch) to D:\ ..
 ECHO Press any key to continue, if the requirement is not fulfilled then please close this cmd window.
