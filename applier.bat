@@ -1,7 +1,7 @@
 @ECHO OFF >nul
 title ACPI Windows 7 ACPI Replacer Script >NUL
 ECHO ===========ACPI Windows 7 Replacer Script===========
-ECHO Place everything in this folder to D: including this script
+ECHO Place Windows 7's install.wim and acpi.sys from the github repository to D:\ ..
 ECHO Press any key to continue, if the requirement is not fulfilled then please close this cmd window.
 pause >nul
 d:
