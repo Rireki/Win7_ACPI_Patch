@@ -1,5 +1,5 @@
 # About this repository "ACPI Windows 7 Replacer"
-A simple acpi integrator for Windows 7, relying on cmd batch script.
+A simple acpi integrator for Windows 7, relying on cmd batch script.\
 EVERYTHING must be executed by using 'run as administrator', and Windows Defender must be turned off.
 
 # Information
